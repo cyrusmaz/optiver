@@ -263,6 +263,7 @@ backwards_solver(M=100, N=4,question_1=False, write=False)
 ########################################################################
 # QUESTION 2: Optimal choie for player A in three player setting.
 # backwards_solver(M=100,N=3,question_1=False, write=False)
+# optimal choice(s) for A: [0.25]
 # average payoff: {'c': 0.24999666666666664, 'a': 0.3750016666666667, 'b': 0.3750016666666667}
 # optimal paths: [{'a': 0.25, 'b': 0.75, 'c': 0.24999}, 
 #                 {'a': 0.25, 'b': 0.75, 'c': 0.5}, 
